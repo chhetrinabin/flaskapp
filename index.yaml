@@ -9,6 +9,6 @@ entries:
     name: flaskapp
     type: application
     urls:
-    - https://github.com/chhetrinabin/flaskhelm/flaskapp-0.1.0.tgz
+    - flaskapp-0.1.0.tgz
     version: 0.1.0
 generated: "2023-04-20T07:48:09.976888695Z"
