@@ -17,7 +17,7 @@ helm install <release_name> <repo_name>/<chart_name>
 ```
 
 ```bash
-helm install flask-release flaskwebapp/flaskwebapp
+helm install flask-release flaskwebapp/flaskapp
 ```
 
 ## Uninstalling the chart
